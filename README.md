@@ -1,3 +1,3 @@
 # hello-world
 Just a test!
-In the java's world ,no pain,no gains!
+In the java's world ,no pains,no gains!
